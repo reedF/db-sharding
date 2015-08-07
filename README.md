@@ -1,2 +1,2 @@
 # db-sharding
-using mybatisnnotation\spring to implement db sharding and read\write in different db nodes
+using mybatis\annotation\spring to implement db sharding and read\write in different db nodes
